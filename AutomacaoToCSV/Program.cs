@@ -51,10 +51,10 @@ namespace AutomacaoToCSV
             Console.ReadKey();
         }
         #region CONEXAO
-        protected static string dataSourceUI = "10.124.100.160";
-        protected static string dataBaseUI = "SAP";
-        protected static string dbUserIDUI = "USERPORTAL";
-        protected static string dbUserPWDUI = "v!V0__2O2O";
+        protected static string dataSourceUI = "";
+        protected static string dataBaseUI = "";
+        protected static string dbUserIDUI = "";
+        protected static string dbUserPWDUI = "";
 
         protected static string connectionString()
         {
