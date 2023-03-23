@@ -1,0 +1,7 @@
+C:\Users\40414403\Projetos\AutomacaoToCSV\Publish\AutomacaoToCSV.pdb
+C:\Users\40414403\Projetos\AutomacaoToCSV\Publish\clrcompression.dll
+C:\Users\40414403\Projetos\AutomacaoToCSV\Publish\clrjit.dll
+C:\Users\40414403\Projetos\AutomacaoToCSV\Publish\coreclr.dll
+C:\Users\40414403\Projetos\AutomacaoToCSV\Publish\mscordaccore.dll
+C:\Users\40414403\Projetos\AutomacaoToCSV\Publish\sni.dll
+C:\Users\40414403\Projetos\AutomacaoToCSV\Publish\AutomacaoToCSV.exe
